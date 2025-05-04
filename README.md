@@ -12,10 +12,10 @@ This repository contains the tasks and projects I completed during my internship
 
 ## 📁 Repository Structure
 codealphatasks/
-│
-├── Task-1/
-│ └── 📁 Task-1: Spotify Music Recommendation System
+### 📁 Task-1: 📁 Task-1: Spotify Music Recommendation System
 This project involves building a Spotify Music Recommendation System using a content-based filtering approach. The system analyzes features like tempo, energy, danceability, and popularity to suggest songs similar to user preferences. It utilizes data preprocessing, feature selection, and cosine similarity to deliver accurate and personalized recommendations.
+
+➡️ [View Task-1 Code](./Task-1/Spotify_Recommidation_System.ipynb)
 
 
 ## 📌 Objectives
